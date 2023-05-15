@@ -7,10 +7,10 @@ copy this code then paste it in your index.html. then cdn rafii is ready to use
 ```html
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdn.rafii.site/style.css" />
   </head>
   <body>
-    <script src="main.js"></script>
+    <script src="https://cdn.rafii.site/main.js"></script>
   </body>
 </html>
 
