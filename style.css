@@ -41,7 +41,7 @@ nav ul li a{
   text-align: center;
 }
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)) , url(https://cdn.rafii.site/src/image/background.png);
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)) , url(background.png);
   width: 100%;
   height: 100vh;
   background-position: center;
@@ -128,4 +128,191 @@ nav ul li a{
     justify-content: center;
     align-items: center;
   }
+}
+
+.f-1{
+  font-size: 10px;
+}
+.f-2{
+  font-size: 20px;
+}
+.f-3{
+  font-size: 30px;
+}
+.f-4{
+  font-size: 40px;
+}
+.f-5{
+  font-size: 50px;
+}
+/* padding top */
+.py-1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.py-2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.py-3{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.py-4{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.py-5{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* padding x */
+.px-1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.px-2{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.px-3{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.px-4{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.px-5{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+/* padding */
+.p-1{
+  padding: 10px;
+}
+.p-2{
+  padding: 20px;
+}
+.p-3{
+  padding: 30px;
+}
+.p-4{
+  padding: 40px;
+}
+.p-5{
+  padding: 50px;
+}
+/* text color */
+.text-white{
+  color: white;
+}
+.text-black{
+  color: black;
+}
+.text-blue{
+  color: blue;
+}
+.text-green{
+  color: green;
+}
+.text-orange{
+  color: orange;
+}
+/* background-color */
+.bg-white{
+  background: white;
+}
+.bg-black{
+  background: black;
+}
+.bg-blue{
+  background: blue;
+}
+.bg-orange{
+  background: orange;
+}
+/* margin */
+.m-1{
+  margin: 10px;
+}
+.m-2{
+  margin: 20px;
+}
+.m-3{
+  margin: 30px;
+}
+.m-4{
+  margin: 40px;
+}
+.m-5{
+  margin: 50px;
+}
+/* margin y */
+.my-1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.my-2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.my-3{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.my-4{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.my-5{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+/* margin x */
+.mx-1{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.mx-2{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.mx-2{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.mx-4{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.mx-5{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+/* rounded */
+.rounded{
+  border-radius: 10px;
+}
+.rounded-md{
+  border-radius: 1rem;
+}
+.rounded-full{
+  border-radius: 50%;
+}
+/* minimal */
+.flex{
+  display: flex;
+}
+.justify-center{
+  justify-content: center;
+}
+.justify-evenly{
+  justify-content: space-evenly;
+}
+.items-center{
+  align-items: center;
+}
+.text-center{
+  text-align: center;
 }
