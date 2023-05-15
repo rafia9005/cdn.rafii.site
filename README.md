@@ -18,6 +18,8 @@ copy this code then paste it in your index.html. then cdn rafii is ready to use
 
 responsive navbar with cdn rafii. copy the code then paste in the middle of the body
 
+<img src="https://cdn.rafii.site/src/image/navbar.png" width="120px">
+
 ```html
   <nav>
     <h1>hello</h1>
