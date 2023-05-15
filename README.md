@@ -2,23 +2,23 @@
 
 
 ### 🚀how to use?
-
-how to use it is very simple. you just need to copy the code below and paste it in your index.html
-
-
-
+copy this code then paste it in your index.html. then cdn rafii is ready to use
 
 ```html
-<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cdn rafii site | thanks for use</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <script src="main.js"></script>
+  </body>
+</html>
+
+```
+
+responsive navbar with cdn rafii. copy the code then paste in the middle of the body
+
+```html
   <nav>
     <h1>hello</h1>
     <div class="hamburger"></div>
@@ -30,9 +30,6 @@ how to use it is very simple. you just need to copy the code below and paste it 
       <li><a href="">Contact</a></li>
     </ul>
   </nav>
-  <script src="main.js"></script>
-</body>
-</html>
  ```
 
 ### simple hero section menu with cdn rafii 👍
