@@ -61,5 +61,10 @@ responsive navbar with cdn rafii. copy the code then paste in the middle of the 
         </div>
       </div>
     </div>
-
+```
+how to change background
+```css
+.hero{
+  background: url(your image);
+}
 ```
