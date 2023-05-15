@@ -34,3 +34,33 @@ how to use it is very simple. you just need to copy the code below and paste it 
 </body>
 </html>
  ```
+
+### simple hero section menu with cdn rafii 👍
+<div style="display: flex;">
+  <img src="https://cdn.rafii.site/src/image/p1.png" width="120px">
+  <img src="https://cdn.rafii.site/src/image/p2.png" width="400px">
+</div>
+
+```html
+  <div class="hero">
+    <div class="box">
+        <h1>
+          Lorem ipsum dolor sit, amet <br />
+          consectetur adipisicing elit. <br />
+          Quisquam, nesciunt!
+        </h1>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias
+          <br>
+          soluta ex accusamus voluptatum assumenda consequuntur sint? Rerum
+          <br>
+          tenetur eos nihil cum quam vitae culpa ipsa!
+        </p>
+        <div class="button">
+          <button>Get Start</button>
+          <button>Docs</button>
+        </div>
+      </div>
+    </div>
+
+```
