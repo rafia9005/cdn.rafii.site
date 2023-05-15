@@ -41,7 +41,7 @@ nav ul li a{
   text-align: center;
 }
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)) , url(background.png);
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)) , url(https://cdn.rafii.site/src/image/background.png);
   width: 100%;
   height: 100vh;
   background-position: center;
