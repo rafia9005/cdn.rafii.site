@@ -73,3 +73,7 @@ how to change background
 ## Documentation
 
 [Documentation](https://cdn.rafii.site/docs)
+
+
+<center>
+GOOD LUCK</center>
